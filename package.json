@@ -7,8 +7,10 @@
         "body-parser": "latest",
         "ejs": "latest",
         "express": "latest",
-        "morgan": "latest",
-        "nodemon": "^1.18.4"
+        "morgan": "latest"
+    },
+    "scripts": {
+        "start": "node app.js"
     },
     "author": "Pappu Sah",
     "homepage": "https://bitbucket.org/rohanshah123/a03",
